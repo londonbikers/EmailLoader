@@ -1,0 +1,1135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- .................................................................................................... -->
+<!-- mediapanther network - email-loader tags definition file                                             -->
+<!-- .................................................................................................... -->
+<!-- add tags to existing or new groups to increase the level of tagging in email-imported content.       -->
+<!-- groups are purely to make the document more managable and easier to read, feel free to add new ones. -->
+<!-- .................................................................................................... -->
+<groups>
+    <group name="manufacturers">
+        <tag name="honda"></tag>
+        <tag name="suzuki"></tag>
+        <tag name="kawasaki">
+			<synonym>kwak</synonym>
+		</tag>
+        <tag name="yamaha"></tag>
+        <tag name="triumph"></tag>
+        <tag name="ducati"></tag>
+        <tag name="aprilia"></tag>
+        <tag name="benelli"></tag>
+        <tag name="ktm"></tag>
+        <tag name="harley davidson"></tag>
+        <tag name="mv agusta"></tag>
+		<tag name="mz"></tag>
+        <tag name="bmw">
+            <synonym>beemer</synonym>
+        </tag>
+		<tag name="husqvarna"></tag>
+    </group>
+	<group name="models">
+		<tag name="gsx-r 600"></tag>
+		<tag name="gsx-r 750"></tag>
+		<tag name="gsx-r 1000"></tag>
+		<tag name="gsx-r 1100"></tag>
+		<tag name="hayabusa"></tag>
+		<tag name="gsx-r">
+			<synonym>gixxer</synonym>
+			<synonym>gsxr</synonym>
+		</tag>
+		<tag name="yzf-r1">
+			<synonym>r1</synonym>
+		</tag>
+		<tag name="yzf-r6">
+			<synonym>r6</synonym>
+		</tag>
+		<tag name="diavel"></tag>
+		<tag name="1098"></tag>
+		<tag name="1198"></tag>
+		<tag name="999"></tag>
+		<tag name="848"></tag>
+		<tag name="748"></tag>
+		<tag name="888"></tag>
+		<tag name="s1000rr">
+			<synonym>s 1000rr</synonym>
+			<synonym>s 1000 rr</synonym>
+			<synonym>s1000rr</synonym>
+		</tag>
+		<tag name="1200gs">
+			<synonym>1200 gs</synonym>
+		</tag>
+		<tag name="rsv"></tag>
+		<tag name="rsv4">
+			<synonym>rsv 4</synonym>
+			<synonym>rsv-4</synonym>
+		</tag>
+		<tag name="daytona 675"></tag>
+		<tag name="dr-z 400">
+			<synonym>drz400</synonym>
+			<synonym>drz 400</synonym>
+			<synonym>drz400e</synonym>
+			<synonym>drz400s</synonym>
+			<synonym>drz 400e</synonym>
+			<synonym>drz 400s</synonym>
+		</tag>
+		<tag name="dr-z 400sm">
+			<synonym>drz400sm</synonym>
+			<synonym>drz 400sm</synonym>
+			<synonym>drz400 sm</synonym>
+			<synonym>drz 400 sm</synonym>
+			<synonym>drz400 super moto</synonym>
+			<synonym>drz400 supermotard</synonym>
+		</tag>
+		<tag name="cbr600rr">
+			<synonym>cbr 600rr</synonym>
+			<synonym>cbr 600 rr</synonym>
+		</tag>
+		<tag name="cbr1000rr">
+			<synonym>cbr 1000rr</synonym>
+			<synonym>cbr 1000 rr</synonym>
+			<synonym>fireblade</synonym>
+		</tag>
+		<tag name="cbr900rr">
+			<synonym>cbr 900rr</synonym>
+			<synonym>cbr 900 rr</synonym>
+		</tag>
+        <tag name="ecrp"></tag>
+        <!-- kawaski -->
+        <tag name="fz8"></tag>
+        <tag name="fazer8 abs"></tag>
+        <tag name="versys"></tag>
+        <tag name="klx250"></tag>
+        <tag name="klx125"></tag>
+        <tag name="klx450r"></tag>
+        <tag name="kx65"></tag>
+        <tag name="kx85 ii"></tag>
+        <tag name="kx85 i"></tag>
+        <tag name="kx250f"></tag>
+        <tag name="kx450f"></tag>
+        <tag name="d-tracker 125"></tag>
+        <tag name="vn900 light tour edition"></tag>
+        <tag name="vn900 custom special edition"></tag>
+        <tag name="vn1700 voyager"></tag>
+        <tag name="vn1700 classic tourer"></tag>
+        <tag name="vn1700 classic"></tag>
+        <tag name="vn900 classic"></tag>
+        <tag name="zzr1400"></tag>
+        <tag name="1400gtr"></tag>
+        <tag name="zzr1400 performance edition"></tag>
+        <tag name="z750 urban sports edition"></tag>
+        <tag name="z750"></tag>
+        <tag name="z1000"></tag>
+        <tag name="er-6n"></tag>
+        <tag name="er-6f"></tag>
+        <tag name="ninja 250r"></tag>
+        <tag name="ninja zx-6r performance edition"></tag>
+        <tag name="ninja zx-10r performance edition"></tag>
+        <tag name="ninja zx-6r">
+            <synonym>zx10</synonym>
+            <synonym>zx 10r</synonym>
+            <synonym>zx 10 r</synonym>
+            <synonym>zx-10r</synonym>
+        </tag>
+        <tag name="ninja zx-10r">
+            <synonym>zx6</synonym>
+            <synonym>zx 6r</synonym>
+            <synonym>zx 6 r</synonym>
+            <synonym>zx-6r</synonym>
+        </tag>
+	</group>
+    <group name="categories">
+        <tag name="scooters">
+            <synonym>scooter</synonym>
+        </tag>
+        <tag name="cruisers"></tag>
+        <tag name="sports tourers">
+            <synonym>sports touring</synonym>
+        </tag>
+        <tag name="sports bikes"></tag>
+    </group>
+    <group name="companies">
+        <!-- services -->
+        <tag name="california superbike school">
+            <synonym>css</synonym>
+        </tag>
+        <tag name="tomtom">
+            <synonym>tom tom</synonym>
+        </tag>
+        <!-- suspension -->
+        <tag name="k-tech"></tag>
+        <tag name="ohlins"></tag>
+        <tag name="white power">
+            <synonym>white-power</synonym>
+            <synonym>wp</synonym>
+        </tag>
+        <!-- exhausts -->
+        <tag name="akrapovic">
+            <synonym>akra</synonym>
+        </tag>
+        <tag name="leovince">
+            <synonym>leo vince</synonym>
+            <synonym>leo-vince</synonym>
+        </tag>
+        <tag name="racefit"></tag>
+        <tag name="graves motorsport">
+            <synonym>graves-motorsport</synonym>
+        </tag>
+        <tag name="remus"></tag>
+        <tag name="arrow"></tag>
+        <tag name="micron"></tag>
+		<tag name="yoshimura"></tag>
+        <!-- wheels -->
+        <tag name="oz racing">
+            <synonym>oz-racing</synonym>
+        </tag>
+        <tag name="bst">
+            <synonym>black stone technology</synonym>
+        </tag>
+        <tag name="pfm"></tag>
+        <tag name="sigma"></tag>
+        <tag name="nitron"></tag>
+        <tag name="talon"></tag>
+        <tag name="renthal"></tag>
+        <tag name="dynojet"></tag>
+        <tag name="power commander">
+            <synonym>power-commander</synonym>
+            <synonym>pc3</synonym>
+            <synonym>pc5</synonym>
+        </tag>
+        <tag name="brembo"></tag>
+        <tag name="nrc racing"></tag>
+        <tag name="sprint"></tag>
+        <tag name="gilles"></tag>
+        <tag name="bmc"></tag>
+        <tag name="k&amp;n"></tag>
+        <tag name="pipercross"></tag>
+        <tag name="translogic"></tag>
+        <tag name="r&amp;g"></tag>
+        <tag name="bagster"></tag>
+        <tag name="baglux"></tag>
+        <tag name="pp tuning"></tag>
+        <tag name="scottoiler"></tag>
+        <!-- sponsors -->
+        <tag name="hannspree"></tag>
+        <!-- tyres -->
+        <tag name="dunlop"></tag>
+        <tag name="michelin"></tag>
+        <tag name="pirelli"></tag>
+        <tag name="avon"></tag>
+        <tag name="bridgestone"></tag>
+        <tag name="pinlock"></tag>
+    </group>
+    <group name="clothing brands">
+        <tag name="alpinestars"></tag>
+        <tag name="dainese"></tag>
+        <tag name="arlen ness">
+			<synonym>arlen-ness</synonym>
+			<synonym>arlenness</synonym>
+		</tag>
+        <tag name="arc-on">
+			<synonym>arcon</synonym>
+			<synonym>arc on</synonym>
+		</tag>
+		<tag name="spidi"></tag>
+		<tag name="sidi"></tag>
+		<tag name="frank thomas">
+			<synonym>frank-thomas</synonym>
+		</tag>
+		<tag name="clover"></tag>
+		<tag name="rev'it!"></tag>
+        <!-- armour -->
+        <tag name="knox"></tag>
+        <!-- helmets -->
+        <tag name="arai"></tag>
+        <tag name="shark"></tag>
+        <tag name="suomy"></tag>
+        <tag name="ogk"></tag>
+        <tag name="shoei"></tag>
+        <tag name="agv"></tag>
+        <tag name="caberg"></tag>
+        <tag name="hjc"></tag>
+        <tag name="momo design"></tag>
+        <tag name="box helmets"></tag>
+        <tag name="schuberth"></tag>
+    </group>
+	<group name="insurance companies">
+		<tag name="mce insurance">
+			<synonym>mce-insurance</synonym>
+		</tag>
+		<tag name="carol nash">
+			<synonym>carol-nash</synonym>
+		</tag>
+		<tag name="bennetts"></tag>
+		<tag name="express insurance"></tag>
+	</group>
+    <group name="products">
+        <tag name="tomtom urban rider"></tag>
+        <tag name="visors">
+            <synonym>visor</synonym>
+        </tag>
+        <tag name="helmets">
+            <synonym>helmet</synonym>
+        </tag>
+        <tag name="gloves">
+            <synonym>glove</synonym>
+        </tag>
+        <tag name="jackets">
+            <synonym>jacket</synonym>
+        </tag>
+        <tag name="trousers"></tag>
+        <tag name="leathers"></tag>
+    </group>
+    <group name="countries">
+        <tag name="united kingdom">
+			<synonym>uk</synonym>
+			<synonym>great britain</synonym>
+			<synonym>gb</synonym>
+			<synonym>england</synonym>
+		</tag>
+        <tag name="europe"></tag>
+        <tag name="france"></tag>
+        <tag name="germany"></tag>
+        <tag name="italy"></tag>
+        <tag name="belgium"></tag>
+		<tag name="canada"></tag>
+        <tag name="spain"></tag>
+        <tag name="sweden"></tag>
+        <tag name="wales"></tag>
+        <tag name="scotland"></tag>
+		<tag name="norway"></tag>
+		<tag name="greenland"></tag>
+		<tag name="mongolia"></tag>
+        <tag name="ireland"></tag>
+        <tag name="portugal"></tag>
+        <tag name="greece"></tag>
+        <tag name="cyprus"></tag>
+        <tag name="america"></tag>
+        <tag name="usa">
+			<synonym>united states of america</synonym>
+		</tag>
+        <tag name="mexico"></tag>
+        <tag name="brazil"></tag>
+		<tag name="bolivia"></tag>
+        <tag name="argentina"></tag>
+        <tag name="afghanistan"></tag>
+        <tag name="albania"></tag>
+        <tag name="algeria"></tag>
+        <tag name="andora"></tag>
+        <tag name="india"></tag>
+        <tag name="pakistan"></tag>
+        <tag name="china"></tag>
+        <tag name="japan"></tag>
+        <tag name="korea"></tag>
+		<tag name="poland"></tag>
+		<tag name="slovakia"></tag>
+        <tag name="australia"></tag>
+        <tag name="new zealand">
+			<synonym>new-zealand</synonym>
+		</tag>
+        <tag name="russia"></tag>
+        <tag name="isle of man">
+			<synonym>iom</synonym>
+		</tag>
+        <tag name="northern ireland"></tag>
+    </group>
+    <group name="cities">
+        <tag name="london">
+			<synonym>londinium</synonym>
+		</tag>
+        <tag name="brighton"></tag>
+		<tag name="berlin"></tag>
+        <tag name="manchester"></tag>
+        <tag name="birmingham"></tag>
+        <tag name="newcastle"></tag>
+		<tag name="blackpool"></tag>
+        <tag name="cardiff"></tag>
+        <tag name="glasgow"></tag>
+        <tag name="paris"></tag>
+        <tag name="new york">
+			<synonym>new-york</synonym>
+			<synonym>nyc</synonym>
+		</tag>
+        <tag name="los angeles"></tag>
+        <tag name="madrid"></tag>
+        <tag name="barcelona">
+			<synonym>catalunya</synonym>
+		</tag>
+        <tag name="rome">
+			<synonym>roma</synonym>
+		</tag>
+        <tag name="brussels"></tag>
+        <tag name="melbourne"></tag>
+		<tag name="sidney"></tag>
+    </group>
+	<group name="venues">
+		<tag name="ace cafe">
+			<synonym>ace-cafe</synonym>
+		</tag>
+		<tag name="bar italia">
+			<synonym>bar-italia</synonym>
+		</tag>
+		<tag name="nec">
+			<synonym>national exhibition centre</synonym>
+		</tag>
+		<tag name="alexandra palace">
+			<synonym>ally pally</synonym>
+			<synonym>ally-pally</synonym>
+			<synonym>alexandra-palace</synonym>
+		</tag>
+        <tag name="excel"></tag>
+    </group>
+    <group name="circuits">
+        <tag name="brands hatch"></tag>
+        <tag name="oulton park"></tag>
+        <tag name="cadwell park"></tag>
+        <tag name="snetterton"></tag>
+        <tag name="silverstone"></tag>
+        <tag name="mallory park"></tag>
+        <tag name="thruxton"></tag>
+        <tag name="donington park">
+            <synonym>donny</synonym>
+        </tag>
+        <tag name="pembrey"></tag>
+        <tag name="llandow"></tag>
+        <tag name="le mans"></tag>
+		<tag name="laguna seca"></tag>
+        <tag name="knockhill"></tag>
+        <tag name="bedford autodrome"></tag>
+        <tag name="phillip island"></tag>
+        <tag name="motegi"></tag>
+        <tag name="losail"></tag>
+        <tag name="jerez"></tag>
+        <tag name="valencia">
+            <synonym>comunitat valenciana</synonym>
+        </tag>
+        <tag name="mugello"></tag>
+        <tag name="assen"></tag>
+        <tag name="catalunya"></tag>
+        <tag name="sachsenring"></tag>
+        <tag name="mazda raceway"></tag>
+        <tag name="brno">
+            <synonym>automotodrom brno</synonym>
+        </tag>
+        <tag name="indianapolis"></tag>
+        <tag name="misano adriatico">
+            <synonym>misano</synonym>
+        </tag>
+        <tag name="motorland aragon"></tag>
+        <tag name="sepang">
+            <synonym>sepang circuit</synonym>
+        </tag>
+        <tag name="estoril"></tag>
+        <tag name="monza"></tag>
+        <tag name="kyalami"></tag>
+        <tag name="miller motorsport"></tag>
+        <tag name="portimao"></tag>
+        <tag name="nurburgring"></tag>
+        <tag name="imola"></tag>
+        <tag name="magny cours"></tag>
+    </group>
+    <group name="motogp">
+        <tag name="motogp">
+			<synonym>moto gp</synonym>
+			<synonym>moto-gp</synonym>
+			<synonym>500gp</synonym>
+		</tag>
+        <tag name="moto2"></tag>
+        <!-- motogp racers -->
+        <tag name="valentino rossi">
+			<synonym>the doctor</synonym>
+		</tag>
+        <tag name="casey stoner"></tag>
+        <tag name="jorge lorenzo"></tag>
+        <tag name="andrea dovizioso"></tag>
+        <tag name="colin edwards"></tag>
+        <tag name="hiroshi aoyama"></tag>
+        <tag name="ben spies"></tag>
+        <tag name="randy de puniet"></tag>
+        <tag name="alvaro bautista"></tag>
+        <tag name="dani pedrosa"></tag>
+        <tag name="marco melandri"></tag>
+        <tag name="mika kallio"></tag>
+        <tag name="hector barbera"></tag>
+        <tag name="aleix espargaro"></tag>
+        <tag name="marco simoncelli"></tag>
+        <tag name="loris capirossi"></tag>
+        <tag name="nicky hayden"></tag>
+        <!-- motogp teams -->
+        <tag name="ducati marlboro">
+            <synonym>ducati marlboro team</synonym>
+        </tag>
+        <tag name="fiat yamaha">
+            <synonym>fiat yamaha team</synonym>
+        </tag>
+        <tag name="interwetten honda">
+            <synonym>interwetten honda motogp</synonym>
+        </tag>
+        <tag name="lcr honda">
+            <synonym>lcr honda motogp</synonym>
+        </tag>
+        <tag name="monster yamaha tech 3"></tag>
+        <tag name="paginas amarillas aspar"></tag>
+        <tag name="pramac racing">
+            <synonym>pramac racing team</synonym>
+        </tag>
+        <tag name="repsol honda">
+            <synonym>repsol honda tea</synonym>
+        </tag>
+        <tag name="rizla suzuki">
+            <synonym>rizla suzuki motogp</synonym>
+        </tag>
+        <tag name="san carlo honda gresini">
+            <synonym>team gresini</synonym>
+        </tag>
+        <!-- moto2 racers -->
+        <tag name="gabor talmacsi"></tag>
+        <tag name="simone corsi"></tag>
+        <tag name="joan olive"></tag>
+        <tag name="alex debon"></tag>
+        <tag name="anthony west"></tag>
+        <tag name="kenny noyes"></tag>
+        <tag name="fonsi nieto"></tag>
+        <tag name="thomas luthi"></tag>
+        <tag name="ratthapark wilairot"></tag>
+        <tag name="alex de angelis"></tag>
+        <tag name="jules cluzel"></tag>
+        <tag name="karel abraham"></tag>
+        <tag name="vladimir leonov"></tag>
+        <tag name="toni elias"></tag>
+        <tag name="alex baldolini"></tag>
+        <tag name="andrea iannone"></tag>
+        <tag name="raffaele de rosa"></tag>
+        <tag name="robertino pietri"></tag>
+        <tag name="sergio gadea"></tag>
+        <tag name="arne tode"></tag>
+        <tag name="roberto rolfo"></tag>
+        <tag name="scott redding"></tag>
+        <tag name="shoya tomizawa"></tag>
+        <tag name="lukas pesek"></tag>
+        <tag name="valentin debise"></tag>
+        <tag name="hector faubel"></tag>
+        <tag name="niccolo canepa"></tag>
+        <tag name="julian simon"></tag>
+        <tag name="vladimir ivanov"></tag>
+        <tag name="mike di meglio"></tag>
+        <tag name="stefan bradl"></tag>
+        <tag name="yonny hernandez"></tag>
+        <tag name="claudio corti"></tag>
+        <tag name="yuki takahashi"></tag>
+        <tag name="mattia pasini"></tag>
+        <tag name="bernat martinez"></tag>
+        <tag name="dominique aegerter"></tag>
+        <tag name="axel pons"></tag>
+        <tag name="yannick guerra"></tag>
+        <tag name="mashel al naimi"></tag>
+        <!-- moto2 teams -->
+        <tag name="aeroport de castello - ajo"></tag>
+        <tag name="blusens-stx"></tag>
+        <tag name="cardion ab motoracing"></tag>
+        <tag name="caretta technology race dept"></tag>
+        <tag name="fimmco speed up"></tag>
+        <tag name="forward racing"></tag>
+        <tag name="gresini racing moto2"></tag>
+        <tag name="holiday gym g22"></tag>
+        <tag name="interwetten moriwaki moto2"></tag>
+        <tag name="italtrans s.t.r."></tag>
+        <tag name="jack &amp; jones by a.banderas"></tag>
+        <tag name="jir moto2"></tag>
+        <tag name="mapfre aspar team"></tag>
+        <tag name="maquinza-sag team"></tag>
+        <tag name="marc vds racing team"></tag>
+        <tag name="matteoni cp racing"></tag>
+        <tag name="mz racing team"></tag>
+        <tag name="racing team germany"></tag>
+        <tag name="rsm team scot"></tag>
+        <tag name="tech 3 racing"></tag>
+        <tag name="technomag-cip"></tag>
+        <tag name="tenerife 40 pons"></tag>
+        <tag name="thai honda ptt singha sag"></tag>
+        <tag name="vector kiefer racing"></tag>
+        <tag name="viessmann kiefer racing"></tag>
+        <tag name="wtr san marino team"></tag>
+        <!-- 125cc racers -->
+        <tag name="alexis masbou"></tag>
+        <tag name="efren vazquez"></tag>
+        <tag name="sandro cortese"></tag>
+        <tag name="esteve rabat"></tag>
+        <tag name="johann zarco"></tag>
+        <tag name="alberto moncayo"></tag>
+        <tag name="adrian martin"></tag>
+        <tag name="lorenzo savadori"></tag>
+        <tag name="randy krummenacher"></tag>
+        <tag name="bradley smith"></tag>
+        <tag name="luis salom"></tag>
+        <tag name="nicolas terol"></tag>
+        <tag name="pol espargaro"></tag>
+        <tag name="sturla fagerhaug"></tag>
+        <tag name="riccardo moretti"></tag>
+        <tag name="jasper iwema"></tag>
+        <tag name="zulfahmi khairuddin"></tag>
+        <tag name="louis rossi"></tag>
+        <tag name="tomoyoshi koyama"></tag>
+        <tag name="marco ravaioli"></tag>
+        <tag name="marcel schrotter"></tag>
+        <tag name="quentin jacquet"></tag>
+        <tag name="jakub kornfeil"></tag>
+        <tag name="luca marconi"></tag>
+        <tag name="marc marquez"></tag>
+        <tag name="jonas folger"></tag>
+        <tag name="danny webb"></tag>
+        <!-- 125cc teams -->
+        <tag name="aeroport de castello - ajo"></tag>
+        <tag name="airasia - sepang int. circuit"></tag>
+        <tag name="andalucia cajasol"></tag>
+        <tag name="avant mitsubishi ajo"></tag>
+        <tag name="bancaja aspar team"></tag>
+        <tag name="blusens-stx"></tag>
+        <tag name="cbc corse"></tag>
+        <tag name="interwetten honda 125"></tag>
+        <tag name="junior gp fmi"></tag>
+        <tag name="lambretta reparto corse"></tag>
+        <tag name="matteoni cp racing"></tag>
+        <tag name="ongetta team"></tag>
+        <tag name="racing team germany"></tag>
+        <tag name="red bull ajo motorsport"></tag>
+        <tag name="stipa-molenaar racing gp"></tag>
+        <tag name="tuenti racing"></tag>
+        <tag name="wtr san marino team"></tag>
+    </group>
+    <group name="motogp legends">
+        <tag name="giacomo agostini"></tag>
+        <tag name="mick doohan"></tag>
+        <tag name="eoff duke">g</tag>
+        <tag name="wayne gardner"></tag>
+        <tag name="mike hailwood"></tag>
+        <tag name="daijiro kato"></tag>
+        <tag name="eddie lawson"></tag>
+        <tag name="anton mang"></tag>
+        <tag name="angel nieto"></tag>
+        <tag name="wayne rainey"></tag>
+        <tag name="phil read"></tag>
+        <tag name="jim redman"></tag>
+        <tag name="kenny roberts"></tag>
+        <tag name="jarno saarinen"></tag>
+        <tag name="kevin schwantz"></tag>
+        <tag name="barry sheene"></tag>
+        <tag name="freddie spencer"></tag>
+        <tag name="john surtees"></tag>
+        <tag name="carlo ubbiali"></tag>
+    </group>
+    <group name="british superbikes">
+        <tag name="bsb">
+			<synonym>british superbikes</synonym>
+			<synonym>british superbike</synonym>
+		</tag>
+        <tag name="british supersport">
+            <synonym>bss</synonym>
+        </tag>
+        <!-- superbike racers -->
+        <tag name="james ellison"></tag>
+        <tag name="stuart easton"></tag>
+        <tag name="ryuichi kiyonari"></tag>
+        <tag name="josh brookes"></tag>
+        <tag name="yukio kagayama"></tag>
+        <tag name="tommy hill"></tag>
+        <tag name="ian lowry"></tag>
+        <tag name="dan linfoot"></tag>
+        <tag name="simon andrews"></tag>
+        <tag name="gary mason"></tag>
+        <tag name="howard mainwaring"></tag>
+        <tag name="tommy bridewell"></tag>
+        <tag name="michael laverty"></tag>
+        <tag name="alastair seeley"></tag>
+        <tag name="john laverty"></tag>
+        <tag name="adam jenkinson"></tag>
+        <tag name="michael rutter"></tag>
+        <tag name="martin jessopp"></tag>
+        <tag name="chris walker"></tag>
+        <tag name="luke jones"></tag>
+        <tag name="tom tunstall"></tag>
+        <tag name="steve brogan"></tag>
+        <tag name="chris burns"></tag>
+        <tag name="joe burns"></tag>
+        <tag name="gary johnson"></tag>
+        <tag name="steve heneghan"></tag>
+        <tag name="craig fitzpatrick"></tag>
+        <tag name="james edmeades"></tag>
+        <tag name="dave wood"></tag>
+        <tag name="michael howarth"></tag>
+        <tag name="aaron zanotti"></tag>
+        <tag name="hudson kennaugh"></tag>
+        <tag name="pauu pekkanen"></tag>
+        <tag name="michael o'brien"></tag>
+        <tag name="david johnson"></tag>
+        <tag name="peter ward"></tag>
+        <tag name="david anthony"></tag>
+		<tag name="jon kirkham"></tag>
+        <!-- superbike teams -->
+        <tag name="motorpoint yamaha"></tag>
+        <tag name="worx crescent suzuki"></tag>
+        <tag name="hm plant honda"></tag>
+        <tag name="swan honda"></tag>
+        <tag name="mss colchester kawasaki"></tag>
+        <tag name="relentless suzuki by tas"></tag>
+        <tag name="buildbase kawasaki"></tag>
+        <tag name="sorrymate.com smt honda"></tag>
+        <tag name="ridersmotorcycles.com ducati"></tag>
+        <tag name="quay garage honda"></tag>
+        <tag name="pr racing">
+            <synonym>pr racing m/c and moore yamaha</synonym>
+        </tag>
+        <tag name="ultimate racing yamaha"></tag>
+        <tag name="doodson motorsport honda"></tag>
+        <tag name="quattro plant honda"></tag>
+        <tag name="cw racing suzuki"></tag>
+        <tag name="redline ktm"></tag>
+        <tag name="splitlath motorsport aprilia"></tag>
+        <tag name="magic bullet two wheel racing"></tag>
+        <tag name="aim suzuki"></tag>
+        <tag name="jentin racing bmw"></tag>
+        <tag name="red viper spike suzuki"></tag>
+        <tag name="777 rr motorsport suzuki"></tag>
+        <tag name="mar racing kawasaki"></tag>
+        <tag name="astro-chase sst racing"></tag>
+        <tag name="close print finance honda"></tag>
+        <tag name="mist suzuki"></tag>
+        <tag name="two brothers kawasaki"></tag>
+        <!-- supersport riders -->
+        <tag name="james westmoreland"></tag>
+        <tag name="tom grant"></tag>
+        <tag name="daniel cooper">
+            <synonym>dan cooper</synonym>
+        </tag>
+        <tag name="ian hutchinson"></tag>
+        <tag name="billy mcconnell"></tag>
+        <tag name="nick medd"></tag>
+        <tag name="patrick mcdougall"></tag>
+        <tag name="jenny tinmouth"></tag>
+        <tag name="sam lowes"></tag>
+        <tag name="luke mossey"></tag>
+        <tag name="lee johnston"></tag>
+        <tag name="jack kennedy"></tag>
+        <tag name="ben wilson"></tag>
+        <tag name="craig sproston"></tag>
+        <tag name="helge spjeldnes"></tag>
+        <tag name="mark cringle"></tag>
+        <tag name="jason o'halloran"></tag>
+        <tag name="marcus woodbine"></tag>
+        <tag name="chris martin">
+            <synonym>christopher martin</synonym>
+        </tag>
+        <tag name="ashley beech"></tag>
+        <tag name="jamie hamilton"></tag>
+        <tag name="max hunt"></tag>
+        <tag name="allan jon venter"></tag>
+        <tag name="shaun winfield">
+            <synonym>shaun robert winfield</synonym>
+        </tag>
+        <tag name="jesse trayler"></tag>
+        <tag name="glen richards"></tag>
+        <tag name="rikki owen"></tag>
+        <tag name="joe dickinson"></tag>
+        <tag name="daniel kneen"></tag>
+        <tag name="paul jordan"></tag>
+        <tag name="craig mclelland"></tag>
+        <tag name="dean hipwell"></tag>
+        <tag name="marty nutt"></tag>
+        <tag name="graeme gowland"></tag>
+        <tag name="charles wallace"></tag>
+        <tag name="david jones"></tag>
+        <tag name="paul young"></tag>
+        <!-- supersport teams -->
+        <tag name="came yamaha"></tag>
+        <tag name="east coast racing"></tag>
+        <tag name="map centurion triumph racing">
+            <synonym>map centurion triumph</synonym>
+        </tag>
+        <tag name="padgett's motorcycles"></tag>
+        <tag name="boss (d&amp;b) racing"></tag>
+        <tag name="sorrymate.com"></tag>
+        <tag name="gns racing"></tag>
+        <tag name="lm racing"></tag>
+        <tag name="gearlink kawasaki"></tag>
+        <tag name="colin appleyard/macadam racing"></tag>
+        <tag name="seton interceptor"></tag>
+        <tag name="mark cringle racing"></tag>
+        <tag name="oxford tag triumph"></tag>
+        <tag name="one stop race shop"></tag>
+        <tag name="wilson racing"></tag>
+        <tag name="gearlink team green kawasaki"></tag>
+        <tag name="race lab yamaha"></tag>
+        <tag name="padgetts honda"></tag>
+        <tag name="hawk racing"></tag>
+        <tag name="ptr honda"></tag>
+        <tag name="marks bloom racing"></tag>
+        <tag name="miltech racing/premier despatch"></tag>
+        <tag name="cdh racing"></tag>
+        <tag name="nutt travel.com / dawn / t+g"></tag>
+        <tag name="ptr"></tag>
+        <tag name="beowulf racing"></tag>
+        <tag name="clwyd heating racing"></tag>
+        <tag name="tag triumph"></tag>
+		<!-- superstock 600 riders -->
+		<tag name="nicola mcaleer"></tag>
+		<!-- superstock 1000 riders -->
+    </group>
+    <group name="world superbike">
+		<tag name="wsb">
+			<synonym>world superbikes</synonym>
+			<synonym>world superbike</synonym>
+            <synonym>hannspree fim superbike world championship</synonym>
+		</tag>
+        <tag name="sbk"></tag>
+        <tag name="world supersport">
+            <synonym>wss</synonym>
+            <synonym>fim supersport world championship</synonym>
+        </tag>
+        <!-- sbk racers -->
+        <tag name="leon camier"></tag>
+        <tag name="max biaggi"></tag>
+        <tag name="carlos checa"></tag>
+        <tag name="troy corser"></tag>
+        <tag name="matteo baiocc">o</tag>
+        <tag name="simon andrews"></tag>
+        <tag name="broc parkes"></tag>
+        <tag name="joshua brookes"></tag>
+        <tag name="vittorio iannuzzo"></tag>
+        <tag name="sheridan morais"></tag>
+        <tag name="cal crutchlow"></tag>
+        <tag name="noriyuki haga"></tag>
+        <tag name="makoto tamada"></tag>
+        <tag name="sylvain guintoli"></tag>
+        <tag name="james toseland"></tag>
+        <tag name="lorenzo lanzi"></tag>
+        <tag name="jonathan rea"></tag>
+        <tag name="tom sykes"></tag>
+        <tag name="shane byrne">
+			<synonym>shane 'shakey' byrne</synonym>
+			<synonym>shane shakey byrne</synonym>
+		</tag>
+        <tag name="max neukirchner"></tag>
+        <tag name="chris vermeulen"></tag>
+        <tag name="michel fabrizio"></tag>
+        <tag name="andrew pitt"></tag>
+        <tag name="leon haslam"></tag>
+        <tag name="roger lee hayden"></tag>
+        <tag name="jakub smrz"></tag>
+        <tag name="luca scassa"></tag>
+        <tag name="ruben xaus"></tag>
+        <tag name="roland resch"></tag>
+        <!-- sbk teams -->
+        <tag name="aprilia alitalia racing"></tag>
+        <tag name="althea racing"></tag>
+        <tag name="bmw motorrad motorsport"></tag>
+        <tag name="team pedercini"></tag>
+        <tag name="kawasaki racing team"></tag>
+        <tag name="echo crs honda"></tag>
+        <tag name="s.c.i. honda garvie image"></tag>
+        <tag name="yamaha sterilgarda team">
+            <synonym>yamaha sterilgarda</synonym>
+        </tag>
+        <tag name="ducati xerox team"></tag>
+        <tag name="team reitwagen bmw"></tag>
+        <tag name="team suzuki alstare"></tag>
+        <tag name="yamaha sterilgarda team"></tag>
+        <tag name="dfx corse"></tag>
+        <tag name="hannspree ten kate honda"></tag>
+        <tag name="team pata b&amp;g racing"></tag>
+        <tag name="supersonic racing team"></tag>
+        <tag name="emtek racing"></tag>
+        <tag name="yoshimura suzuki racing team"></tag>
+        <!-- wss racers -->
+        <tag name="gino rea"></tag>
+        <tag name="alexander lundh"></tag>
+        <tag name="chaz davies"></tag>
+        <tag name="bastien chesaux"></tag>
+        <tag name="danilo dell'omo"></tag>
+        <tag name="matthieu lagrive"></tag>
+        <tag name="sèbastien charpentier"></tag>
+        <tag name="andrea boscoscuro"></tag>
+        <tag name="david salom"></tag>
+        <tag name="joan lascorz"></tag>
+        <tag name="paola cazzola"></tag>
+        <tag name="katsuaki fujiwara"></tag>
+        <tag name="jason disalvo"></tag>
+        <tag name="eugene laverty"></tag>
+        <tag name="michele pirro"></tag>
+        <tag name="kenan sofuoglu"></tag>
+        <tag name="massimo roccoli"></tag>
+        <tag name="fabien foret"></tag>
+        <tag name="miguel praia"></tag>
+        <tag name="robbin harms"></tag>
+        <tag name="imre toth"></tag>
+        <tag name="melissa paris"></tag>
+        <tag name="eduard blokhin"></tag>
+        <tag name="max hunt"></tag>
+        <tag name="lance isaacs"></tag>
+        <tag name="jacques peskens"></tag>
+        <tag name="gianluca vizziello"></tag>
+        <tag name="tyler odom"></tag>
+        <tag name="alessio palumbo"></tag>
+        <tag name="jason farrell"></tag>
+        <!-- wss teams -->
+        <tag name="intermoto czech"></tag>
+        <tag name="cresto guide racing team"></tag>
+        <tag name="parkingo triumph be1"></tag>
+        <tag name="harms benjan racing"></tag>
+        <tag name="kuja racing"></tag>
+        <tag name="kawasaki motocard.com"></tag>
+        <tag name="parkalgar honda"></tag>
+        <tag name="hannspree ten kate honda"></tag>
+        <tag name="team lorenzini by leoni"></tag>
+        <tag name="team toth"></tag>
+        <tag name="mph racing yamaha"></tag>
+        <tag name="rivamoto"></tag>
+        <tag name="race lab yamaha"></tag>
+        <tag name="bikefin safesky honda"></tag>
+        <tag name="velmotor 2000"></tag>
+        <tag name="erion racing"></tag>
+        <tag name="puccetti r. kawasaki italia"></tag>
+        <tag name="indy superbikes.com"></tag>
+    </group>
+    <group name="motocross">
+        <tag name="mx1"></tag>
+        <tag name="mx2"></tag>
+        <tag name="fim motocross world championship"></tag>
+        <tag name="antonio cairoli"></tag>
+        <tag name="david philippaerts"></tag>
+        <tag name="steve ramo">n</tag>
+        <tag name="maximilian nagl">
+			<synonym>max nagl</synonym>
+		</tag>
+        <tag name="tanel leok"></tag>
+        <tag name="ken de dycker"></tag>
+        <tag name="davide guarneri"></tag>
+        <tag name="jimmy albertson"></tag>
+        <tag name="evgeny bobryshev"></tag>
+        <tag name="marc de reuver"></tag>
+        <tag name="xavier boog"></tag>
+        <tag name="gareth swanepoel"></tag>
+        <tag name="manuel monni"></tag>
+        <tag name="kevin strijbos"></tag>
+        <tag name="tom söderström"></tag>
+        <tag name="sebastien pourcel"></tag>
+        <tag name="rui goncalves"></tag>
+        <tag name="cedric soubeyras"></tag>
+        <tag name="anthony boissiere"></tag>
+        <tag name="yentel martens"></tag>
+        <tag name="matthias walkner"></tag>
+        <tag name="kevin wouts"></tag>
+        <tag name="matteo bonini"></tag>
+        <tag name="rob van vijfeijken"></tag>
+        <tag name="martin michek"></tag>
+        <tag name="günter schmidinger"></tag>
+        <tag name="mathias bellino"></tag>
+        <tag name="morgane jacquelin"></tag>
+        <tag name="ivo steinbergs"></tag>
+        <tag name="loic rombaut"></tag>
+        <tag name="tom church"></tag>
+        <tag name="philips kempelis"></tag>
+        <tag name="clement desalle"></tag>
+        <tag name="joshua coppins"></tag>
+    </group>
+    <group name="supermoto">
+        <tag name="supermoto">
+			<synonym>supermotard</synonym>
+			<synonym>super motard</synonym>
+			<synonym>super moto</synonym>
+		</tag>
+        <tag name="fim supermoto world championship"></tag>
+        <tag name="s1"></tag>
+        <tag name="s2"></tag>
+    </group>
+    <group name="nw200">
+        <tag name="north west 200">
+            <synonym>nw200</synonym>
+        </tag>
+        <!-- superbike -->
+        <tag name="steve plater"></tag>
+        <tag name="john mcguinness"></tag>
+        <tag name="stuart easton"></tag>
+        <tag name="michael dunlop"></tag>
+        <tag name="conor cummins"></tag>
+        <tag name="ryan farquhar"></tag>
+        <tag name="adrian archibald"></tag>
+        <tag name="alastair seeley"></tag>
+        <tag name="keith amor"></tag>
+        <tag name="cameron donald"></tag>
+        <tag name="ian hutchinson"></tag>
+        <tag name="guy martin"></tag>
+        <tag name="gary johnson"></tag>
+        <tag name="bruce anstey"></tag>
+        <tag name="ian lougher"></tag>
+        <tag name="denver robb"></tag>
+        <tag name="william dunlop"></tag>
+        <tag name="james mcbride"></tag>
+        <tag name="derek brien"></tag>
+        <tag name="stephen thompson"></tag>
+        <tag name="daniel kneen"></tag>
+        <tag name="jimmy moore"></tag>
+        <tag name="john burrows"></tag>
+        <tag name="olie linsdell"></tag>
+        <tag name="gavin hunt"></tag>
+        <tag name="paul dobbs"></tag>
+        <tag name="graham english"></tag>
+        <tag name="dave hewson"></tag>
+        <tag name="adrian clark"></tag>
+        <tag name="mark buckley"></tag>
+        <tag name="dave woolams"></tag>
+        <tag name="james hillier"></tag>
+        <tag name="brian mccormack"></tag>
+        <tag name="james redpath"></tag>
+        <tag name="michael niblett"></tag>
+        <tag name="steve heneghan"></tag>
+        <tag name="ben wylie"></tag>
+        <tag name="paul cranston"></tag>
+        <tag name="mark mcphee"></tag>
+        <tag name="tony czyzewski"></tag>
+        <tag name="james mccann"></tag>
+        <tag name="john tattersallv"></tag>
+        <tag name="jonathan howart"></tag>
+        <tag name="sandor bitter"></tag>
+        <tag name="paul owen"></tag>
+        <tag name="emlyn hughes"></tag>
+        <tag name="ryan mccay"></tag>
+        <tag name="john hildreth"></tag>
+        <tag name="paul shoesmith"></tag>
+    </group>
+    <group name="isle of man tt">
+        <tag name="iom tt">
+            <synonym>tt</synonym>
+        </tag>
+        <tag name="isle of man"></tag>
+        <!-- factory -->
+        <tag name="john mcguinness"></tag>
+        <tag name="steve plater"></tag>
+        <tag name="ian hutchinson"></tag>
+        <tag name="bruce anstey"></tag>
+        <tag name="cameron donald"></tag>
+        <tag name="keith amor"></tag>
+        <tag name="adrian archibald"></tag>
+        <tag name="ian armstrong"></tag>
+        <tag name="mark buckley"></tag>
+        <tag name="conor cummins"></tag>
+        <tag name="michael dunlop"></tag>
+        <tag name="william dunlop"></tag>
+        <tag name="ryan farquhar"></tag>
+        <tag name="james hillier"></tag>
+        <tag name="gary johnson"></tag>
+        <tag name="daniel kneen"></tag>
+        <tag name="olie linsdell"></tag>
+        <tag name="ian lougher"></tag>
+        <tag name="james mcbride"></tag>
+        <tag name="guy martin"></tag>
+        <tag name="steve mercer"></tag>
+        <tag name="mark miller"></tag>
+        <tag name="jimmy moore"></tag>
+        <tag name="carl rennie"></tag>
+        <tag name="michael rutter"></tag>
+        <tag name="dan stewart"></tag>
+        <!-- privateers -->
+        <tag name="roberto antonellini"></tag>
+        <tag name="ian armstrong"></tag>
+        <tag name="rob barber"></tag>
+        <tag name="john barton"></tag>
+        <tag name="chris bradshaw"></tag>
+        <tag name="stefano bonetti"></tag>
+        <tag name="derek brien"></tag>
+        <tag name="luis carreira"></tag>
+        <tag name="gary carswell"></tag>
+        <tag name="alan connor"></tag>
+        <tag name="alessio corradi"></tag>
+        <tag name="maria costello"></tag>
+        <tag name="paul cranston"></tag>
+        <tag name="brandon cretu"></tag>
+        <tag name="tony czyzewski"></tag>
+        <tag name="paul dobbs"></tag>
+        <tag name="michal dokoupil"></tag>
+        <tag name="shaun gilbert"></tag>
+        <tag name="kenny gilbertson"></tag>
+        <tag name="cr gittere"></tag>
+        <tag name="marc granie"></tag>
+        <tag name="kiaran hankin"></tag>
+        <tag name="dan hegarty"></tag>
+        <tag name="steve heneghan"></tag>
+        <tag name="david hewson"></tag>
+        <tag name="mark herbertson"></tag>
+        <tag name="jim hodson"></tag>
+        <tag name="james hurrell"></tag>
+        <tag name="takahiro itami"></tag>
+        <tag name="alan jackson jnr"></tag>
+        <tag name="alan jackson">
+            <synonym>alan 'bud' jackson</synonym>
+        </tag>
+        <tag name="david johnson"></tag>
+        <tag name="david jones"></tag>
+        <tag name="hudson kennaugh"></tag>
+        <tag name="andrew kirk"></tag>
+        <tag name="peter linden"></tag>
+        <tag name="olie linsdell"></tag>
+        <tag name="martin loicht"></tag>
+        <tag name="dave madsen mygdal"></tag>
+        <tag name="antonio maeso"></tag>
+        <tag name="roger maher"></tag>
+        <tag name="gary may"></tag>
+        <tag name="james mcbride"></tag>
+        <tag name="brian mccormack"></tag>
+        <tag name="james mccullagh"></tag>
+        <tag name="steve mercer"></tag>
+        <tag name="fabrice miguet"></tag>
+        <tag name="jimmy moore"></tag>
+        <tag name="timothee monot"></tag>
+        <tag name="davy morgan"></tag>
+        <tag name="russell mountford"></tag>
+        <tag name="stephen oates"></tag>
+        <tag name="paul owen"></tag>
+        <tag name="chris palmer"></tag>
+        <tag name="david parades"></tag>
+        <tag name="ian pattinson"></tag>
+        <tag name="chris petty"></tag>
+        <tag name="clinton pienaar"></tag>
+        <tag name="toni rechberger"></tag>
+        <tag name="roy richardson"></tag>
+        <tag name="sergio romero"></tag>
+        <tag name="michael russell"></tag>
+        <tag name="karsten schmidt"></tag>
+        <tag name="james shipley"></tag>
+        <tag name="paul shoesmith"></tag>
+        <tag name="george spence"></tag>
+        <tag name="jenny tinmouth"></tag>
+        <tag name="jimmy vanderhaar"></tag>
+        <tag name="roger wibberley"></tag>
+        <tag name="scott wilson"></tag>
+        <tag name="garth woods"></tag>
+		<tag name="jimmy storrar"></tag>
+    </group>
+    <group name="ttxgp">
+        <tag name="ttxgp"></tag>
+        <!-- teams -->
+        <tag name="mission motors"></tag>
+        <tag name="motoczysz"></tag>
+        <tag name="kingston university"></tag>
+        <tag name="killacycle"></tag>
+        <tag name="erockit"></tag>
+        <tag name="imperial"></tag>
+        <tag name="team brammo"></tag>
+        <tag name="team agni"></tag>
+        <tag name="htblauva-tgm"></tag>
+        <tag name="manttx racing"></tag>
+        <tag name="team tork"></tag>
+        <tag name="barefoot motors"></tag>
+        <tag name="xxl racing"></tag>
+        <tag name="evo design"></tag>
+        <tag name="electric motorsport"></tag>
+        <tag name="brunel x-team"></tag>
+        <tag name="peace e-rider"></tag>
+        <tag name="crp racing"></tag>
+    </group>
+	<group name="people">
+		<tag name="suzi perry"></tag>
+		<tag name="kousuke akiyoshi"></tag>
+	</group>
+	<group name="misc sports">
+        <tag name="flat track"></tag>
+        <tag name="enduro"></tag>
+    </group>
+</groups>

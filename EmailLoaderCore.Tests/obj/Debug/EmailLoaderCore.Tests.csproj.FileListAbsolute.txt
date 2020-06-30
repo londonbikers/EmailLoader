@@ -1,0 +1,14 @@
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\bin\Debug\EmailLoaderCore.Tests.dll.config
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\bin\Debug\EmailLoaderCore.Tests.dll
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\bin\Debug\EmailLoaderCore.Tests.pdb
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\bin\Debug\EmailLoaderCore.dll
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\bin\Debug\Mail.dll
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\bin\Debug\MPFramework.dll
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\bin\Debug\nunit.framework.dll
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\bin\Debug\NUnitEx.dll
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\bin\Debug\MPFramework.pdb
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\bin\Debug\EmailLoaderCore.pdb
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\bin\Debug\Mail.xml
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\obj\Debug\EmailLoaderCore.Tests.dll
+C:\Source\EmailLoaderCore\EmailLoaderCore.Tests\obj\Debug\EmailLoaderCore.Tests.pdb
